@@ -1,0 +1,22 @@
+.linetwo{
+    border-top: grey solid 1px;
+    border-bottom: solid grey 1px;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+body{
+    margin: 100px;
+}
+
+.paralast{
+    color: red;
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+    border-top: black solid 1px;
+    border-bottom: black solid 1px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
